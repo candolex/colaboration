@@ -7,7 +7,6 @@ public:
 		cout << "lol";
 		cout << "\n";
 	}
-using namespace std;
 
 class TestDnl //Мой класс
 {
